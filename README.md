@@ -516,7 +516,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
     * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from Tastypie.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
-
+    * [hug](http://www.hug.rest/) - cleanest way to create HTTP REST APIs on Python3
 ## Serialization
 
 *Libraries for serializing complex data types*
